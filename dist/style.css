@@ -26,14 +26,14 @@ body {
     font-weight: 900;
     border-bottom: 2px solid #202020;
 }
-.header a {
+.link {
     color: white;
     text-decoration: none;
 }
-.header a:hover {
+.link:hover {
     color: #a0a0a0;
 }
-.selected a {
+.selected {
     color: #DA4B4B;
 }
 .main {

@@ -3,6 +3,7 @@ const links = [];
 
 for(let i=0; i<3; i++) {
     links[i] = document.createElement('a');
+    links[i].classList.add('link');
 }
 
 links[0].textContent = 'Home';
